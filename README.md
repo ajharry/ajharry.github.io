@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# April J. Harry
+PhD Candidate, Purdue University, Department of Statistics
 
-You can use the [editor on GitHub](https://github.com/ajharry/ajharry.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Research Technician, Northeastern University, College of Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Northeastern Office: WVH 310G (where I'm currently located)
 
-### Markdown
+Purdue Office: MATH 509
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[aharry at purdue dot edu](mailto:aharry@purdue.edu)
 
-```markdown
-Syntax highlighted code block
+## Current Research and Activities
+My research interests involve developing statistical methods for mass spectrometry imaging. In particular, I am attempting to improve the identification of differentially abundant ions across sample conditions using models that take into account the complex error structures often found in this type of data. I am also interested in the computational issues that arise from implementation of such methods on large datasets. Thus, my research touches many areas--from bioinformatics to spatial statistics. I am advised by Prof. Olga Vitek. I am currently working on my dissertation research as a Research Technician in the College of Science at Northeastern University in Boston, MA. I expect to graduate December 2017.
 
-# Header 1
-## Header 2
-### Header 3
+Here is my [CV], or my [resume] if you'd prefer.
 
-- Bulleted
-- List
+I am passionate about helping to increase access, success, and visibility of underrepresented minorities in STEM, particularly in the mathematical sciences. I am also an advisor for Statistics in the Community (StatCom) at Purdue, a student-run organization that provides free statistical consulting to local non-profits, schools, and governmental agencies.
 
-1. Numbered
-2. List
+## Education
+PhD in Statistics, Purdue University (In Progress) 
 
-**Bold** and _Italic_ and `Code` text
+MS in Applied Statistics, Purdue University (2012) 
 
-[Link](url) and ![Image](src)
-```
+BS in Mathematics, Xavier University of Louisiana (2010)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Publications
+**Harry, April**; Bemis, Kylie; Guo, Dan; Thomas, Mathew; Lanekoff, Ingela; Stenzel-Poore, Mary; Stevens, Susan; Laskin, Julia; Vitek, Olga. Statistical detection of differentially abundant ions in mass spectrometry-based imaging experiments with complex designs. International Journal of Mass Spectrometry. Under review.
 
-### Jekyll Themes
+Bemis, Kylie; **Harry, April**; Eberlin, Livia; Ferreira, Christina; van de Ven, Stephanie; Mallick, Parag; Stolowitz, Mark; Vitek, Olga. May 2016. Probabilistic segmentation of mass spectrometry images helps select important ions and characterize confidence in the resulting segments. Molecular & Cellular Proteomics. 15(5):1761-72.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ajharry/ajharry.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Bemis, Kylie; **Harry, April**; Eberlin, Livia; Ferreira, Christina; van de Ven, Stephanie; Mallick, Parag; Stolowitz , Mark; Vitek, Olga. (2015). Cardinal: An R Package for Statistical Analysis of Mass Spectrometry-Based Imaging Experiments. Bioinformatics (Oxford, England). 31 (14): 2418-2420.
 
-### Support or Contact
+**Harry, April**, Troisi, Jeremy. (Aug 2014) STATtr@k: Service Oriented Statistics. AMSTATNEWS: p 19.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Kaufman, J; Lessler, J; **Harry, A**; Edlund, S; Hu, K; et al. (2014) A Likelihood-Based Approach to Identifying Contaminated Food Products Using Sales Data: Performance and Challenges. PLoS Comput Biol 10(7): e1003692.
+
+**Harry, April J**; Kent, Candace M; Kocic, Vlajko L. (2012) Global behavior of solutions of a periodically forced Sigmoid Beverton-Holt model. J Biol Dyn 6(2): pp. 212-234.
