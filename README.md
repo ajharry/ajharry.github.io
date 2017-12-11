@@ -1,7 +1,7 @@
 # April J. Harry
 ![April J Harry](aprilharry.jpg)
 
-PhD Candidate, Purdue University, Department of Statistics
+Ph.D. in Statistics, Purdue University, Department of Statistics
 
 Research Technician, Northeastern University, College of Science
 
@@ -19,7 +19,7 @@ Here is my [CV](AprilHarryCV_Fall17.pdf).
 I am passionate about helping to increase access, success, and visibility of underrepresented minorities in STEM, particularly in the mathematical sciences. I am also an advisor for Statistics in the Community (StatCom) at Purdue, a student-run organization that provides free statistical consulting to local non-profits, schools, and governmental agencies.
 
 ## Education
-PhD in Statistics, Purdue University (In Progress) 
+PhD in Statistics, Purdue University (2017) 
 
 MS in Applied Statistics, Purdue University (2012) 
 
