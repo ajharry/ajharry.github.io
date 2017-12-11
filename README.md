@@ -14,7 +14,7 @@ Purdue Office: MATH 509
 ## Current Research and Activities
 My research interests involve developing statistical methods for mass spectrometry imaging. In particular, I am attempting to improve the identification of differentially abundant ions across sample conditions using models that take into account the complex error structures often found in this type of data. I am also interested in the computational issues that arise from implementation of such methods on large datasets. Thus, my research touches many areas--from bioinformatics to spatial statistics. I am advised by Prof. Olga Vitek. I am currently working on my dissertation research as a Research Technician in the College of Science at Northeastern University in Boston, MA. I expect to graduate December 2017.
 
-Here is my [CV](AHarryCV_Summer17_web.pdf).
+Here is my [CV](AprilHarryCV_Fall17.pdf).
 
 I am passionate about helping to increase access, success, and visibility of underrepresented minorities in STEM, particularly in the mathematical sciences. I am also an advisor for Statistics in the Community (StatCom) at Purdue, a student-run organization that provides free statistical consulting to local non-profits, schools, and governmental agencies.
 
