@@ -1,22 +1,21 @@
 # April J. Harry
 ![April J Harry](aprilharry.jpg)
 
+Insight Data Science Fellow
+
 Ph.D. in Statistics, Purdue University, Department of Statistics
-
-Research Technician, Northeastern University, College of Science
-
-Northeastern Office: WVH 310G (where I'm currently located)
-
-Purdue Office: MATH 509
 
 [Contact me](mailto:harry.april@gmail.com)
 
 ## Current Research and Activities
-My research interests involve developing statistical methods for mass spectrometry imaging. In particular, I am attempting to improve the identification of differentially abundant ions across sample conditions using models that take into account the complex error structures often found in this type of data. I am also interested in the computational issues that arise from implementation of such methods on large datasets. Thus, my research touches many areas--from bioinformatics to spatial statistics. I am advised by Prof. Olga Vitek. I am currently working on my dissertation research as a Research Technician in the College of Science at Northeastern University in Boston, MA. I expect to graduate December 2017.
+I am currently participating in the Insight Data Science Fellowship Program in Seattle, WA. My project involves using Natural Language Processing techniques to identify sponsored content in YouTube videos.
+
+## Past Research
+My dissertation research involved developing statistical methods for complex, spatially correlated data called mass spectrometry images. In particular, I developed a Bayesian modeling and testing framework for the  identification of differentially abundant ions across sample conditions. This work was interdisciplinary, involving both bioinformatics and spatial statistics. I was advised by Prof. Olga Vitek. I graduated from Purdue University Statistics in December 2017, having completed my thesis work as a Research Technician in the College of Science at Northeastern University in Boston, MA.
 
 Here is my [CV](AprilHarryCV_Fall17_web.pdf).
 
-I am passionate about helping to increase access, success, and visibility of underrepresented minorities in STEM, particularly in the mathematical sciences. I am also an advisor for Statistics in the Community (StatCom) at Purdue, a student-run organization that provides free statistical consulting to local non-profits, schools, and governmental agencies.
+I am passionate about helping to increase access, success, and visibility of underrepresented minorities in STEM, particularly in the mathematical sciences. I was also an advisor for Statistics in the Community (StatCom) at Purdue, a student-run organization that provides free statistical consulting to local non-profits, schools, and governmental agencies.
 
 ## Education
 PhD in Statistics, Purdue University (2017) 
