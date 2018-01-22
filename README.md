@@ -1,7 +1,3 @@
----
-title: April J. Harry
----
-
 # April J. Harry
 ![April J Harry](aprilharry.jpg)
 
