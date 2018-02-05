@@ -13,7 +13,7 @@ I am currently participating in the Insight Data Science Fellowship Program in S
 ## Past Research
 My dissertation research involved developing statistical methods for complex, spatially correlated data called mass spectrometry images. In particular, I developed a Bayesian modeling and testing framework for the  identification of differentially abundant ions across sample conditions. This work was interdisciplinary, involving both bioinformatics and spatial statistics. I was advised by Prof. Olga Vitek. I graduated from Purdue University Statistics in December 2017, having completed my thesis work as a Research Technician in the College of Science at Northeastern University in Boston, MA.
 
-Here is my [Resume](April_Harry_Resume.pdf).
+Here is my [resume](April_Harry_Resume.pdf).
 
 I am passionate about helping to increase access, success, and visibility of underrepresented minorities in STEM, particularly in the mathematical sciences. I was also an advisor for Statistics in the Community (StatCom) at Purdue, a student-run organization that provides free statistical consulting to local non-profits, schools, and governmental agencies.
 
