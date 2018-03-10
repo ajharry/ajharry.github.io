@@ -5,6 +5,8 @@ Insight Data Science Fellow
 
 Ph.D. in Statistics, Purdue University, Department of Statistics
 
+[LinkedIn](https://www.linkedin.com/in/april-j-harry/)
+
 [Contact me](mailto:harry.april@gmail.com)
 
 ## Current Research and Activities
