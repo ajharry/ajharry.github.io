@@ -1,7 +1,7 @@
 # April J. Harry
 ![April J Harry](aprilharry.jpg)
 
-Insight Data Science Fellow
+Data Scientist at Realself
 
 Ph.D. in Statistics, Purdue University, Department of Statistics
 
@@ -10,9 +10,9 @@ Ph.D. in Statistics, Purdue University, Department of Statistics
 [Contact me](mailto:harry.april@gmail.com)
 
 ## Current Research and Activities
-I am currently participating in the Insight Data Science Fellowship Program in Seattle, WA. My project is sponView, a web app that uses Natural Language Processing techniques to identify sponsored content in YouTube videos. Learn about my project [here](http://www.sponview.site).
+I am currently working as a Data Scientist at [RealSelf](http://www.realself.com).
 
-Here is my [resume](April_Harry_Resume.pdf).
+I previously participated in the Insight Data Science Fellowship Program in Seattle, WA. My project was sponView, a web app that uses Natural Language Processing techniques to identify sponsored content in YouTube videos. Learn about my project [here](http://www.sponview.site).
 
 ## Past Research
 My dissertation research involved developing statistical methods for complex, spatially correlated data called mass spectrometry images. In particular, I developed a Bayesian modeling and testing framework for the  identification of differentially abundant ions across sample conditions. This work was interdisciplinary, involving both bioinformatics and spatial statistics. I was advised by Prof. Olga Vitek. I graduated from Purdue University Statistics in December 2017, having completed my thesis work as a Research Technician in the College of Science at Northeastern University in Boston, MA.
@@ -27,7 +27,7 @@ MS in Applied Statistics, Purdue University (2012)
 BS in Mathematics, Xavier University of Louisiana (2010)
 
 ## Publications
-**Harry, April**; Bemis, Kylie; Guo, Dan; Thomas, Mathew; Lanekoff, Ingela; Stenzel-Poore, Mary; Stevens, Susan; Laskin, Julia; Vitek, Olga. Statistical detection of differentially abundant ions in mass spectrometry-based imaging experiments with complex designs. International Journal of Mass Spectrometry. Under review.
+Bemis, Kylie; Guo, Dan; **Harry, April**; Thomas, Mathew; Lanekoff, Ingela; Stenzel-Poore, Mary; Stevens, Susan; Laskin, Julia; Vitek, Olga. Statistical detection of differentially abundant ions in mass spectrometry-based imaging experiments with complex designs. International Journal of Mass Spectrometry. Under review.
 
 Bemis, Kylie; **Harry, April**; Eberlin, Livia; Ferreira, Christina; van de Ven, Stephanie; Mallick, Parag; Stolowitz, Mark; Vitek, Olga. May 2016. Probabilistic segmentation of mass spectrometry images helps select important ions and characterize confidence in the resulting segments. Molecular & Cellular Proteomics. 15(5):1761-72.
 
